@@ -2,7 +2,7 @@
 
 > Built in 24 hours at Hackathon 2026
 
-A full-stack Product Lifecycle Management system for managing Engineering Change Orders (ECOs), Bill of Materials (BOMs), and product versioning — with role-based access control, configurable approval workflows, real-time updates, and a full audit trail.
+A full-stack Product Lifecycle Management system for managing Engineering Change Orders (ECOs), Bill of Materials (BOMs), and product versioning - with role-based access control, configurable approval workflows, real-time updates, and a full audit trail.
 
 ---
 
