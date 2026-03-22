@@ -10,6 +10,8 @@ A full-stack Product Lifecycle Management system for managing Engineering Change
 
 [![PLM ECO System Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/fqHUgY9hRNA)
 
+Submmited video (on odoo portal): https://drive.google.com/file/d/1r0Fnx_nnt4tHxrmgVdH3Sa5nh-ngSovY/view?usp=sharing
+
 ---
 
 ## Features
