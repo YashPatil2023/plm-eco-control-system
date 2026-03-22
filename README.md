@@ -16,7 +16,7 @@ A full-stack Product Lifecycle Management system for managing Engineering Change
 
 - **Products** — Create, version, and track products with attachments
 - **Bill of Materials (BOM)** — Manage components and manufacturing operations per product
-- **Engineering Change Orders (ECO)** — Raise, track, and apply changes to products or BOMs
+- **Engineering Change Orders (ECO)** - Raise, track, and apply changes to products or BOMs
 - **Configurable Approval Workflow** — Multi-stage ECO pipeline with per-stage approval rules (Required / Optional / Comment Only)
 - **Role-Based Access Control** — Four roles: Admin, Engineering User, Approver, Operations User
 - **Audit Trail** — Full history of every action on every ECO
